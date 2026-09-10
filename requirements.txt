@@ -9,3 +9,5 @@ sentence-transformers
 torch>=2.6
 faiss-cpu
 pypdf
+pydfium2
+langserve
